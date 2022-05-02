@@ -25,27 +25,27 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mx-auto mb-0 mb-lg-0">
 
-                        <li class="nav-item me-4">
+                        <li class="nav-item me-5">
                             <a class="nav-link" href="hakkimda.html">HAKKIMDA</a>
                             <div class="line"></div>
                         </li>
-                        <li class="nav-item me-4">
+                        <li class="nav-item me-5">
                             <a class="nav-link" href="ozgecmisim.html">ÖZGEÇMİŞİM</a>
                             <div class="line"></div>
                         </li>
-                        <li class="nav-item me-4">
+                        <li class="nav-item me-5">
                             <a class="nav-link" href="sehrim.html">ŞEHRİM</a>
                             <div class="line"></div>
                         </li>
-                        <li class="nav-item me-4">
+                        <li class="nav-item me-5">
                             <a class="nav-link" href="takimimiz.html">TAKIMIMIZ</a>
                             <div class="line"></div>
                         </li>
-                        <li class="nav-item me-4">
+                        <li class="nav-item me-5">
                             <a class="nav-link " href="ilgiAlanım.html">İLGİ ALANIM</a>
                             <div class="line"></div>
                         </li>
-                        <li class="nav-item me-4">
+                        <li class="nav-item me-5">
                             <a class="nav-link" href="iletisim.html">İLETİŞİM</a>
                             <div class="line"></div>
                         </li>
